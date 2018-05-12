@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40277
     wikipedia: https://en.wikipedia.org/wiki/Lala_Lajpat_Rai
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41819#The-Political-Future-of-India
 gutenberg_issued: '2013-01-11'
 gutenberg_type: Text
 identifiers:
