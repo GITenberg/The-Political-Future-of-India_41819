@@ -1,0 +1,33 @@
+_repo: The-Political-Future-of-India_41819
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41819-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lajpat Rai, Lala
+    aliases:
+    - Rai, Lajpat
+    - Rai, Lala Lajpat
+    - Lala Lajpat Rai
+    birthdate: 1865
+    deathdate: 1928
+    gutenberg_agent_id: '40277'
+    url: http://www.gutenberg.org/2009/agents/40277
+    wikipedia: https://en.wikipedia.org/wiki/Lala_Lajpat_Rai
+description: ''
+gutenberg_issued: '2013-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41819'
+  lccn: '19018038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- British occupation, 1765-1947'
+- !lcc 'DS'
+- !lcsh 'India -- Politics and government -- 1765-1947'
+title: The Political Future of India
+url: http://www.gutenberg.org/ebooks/41819
